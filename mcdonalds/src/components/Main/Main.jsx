@@ -46,7 +46,7 @@ export default function Main() {
         <S.Center>
           <Card imagem={sofa} texto={"Que tal um #MéquiNoSofá"} />
           <Card imagem={loja} texto={"Venha conhecer nossa nova loja"} />
-          <Card imagem={juntps} texto={"Confira as medidas que o Méqui adotou!"} />
+          <Card imagem={juntos} texto={"Confira as medidas que o Méqui adotou!"} />
         </S.Center>
       </S.Promocao>
     </S.Main>
