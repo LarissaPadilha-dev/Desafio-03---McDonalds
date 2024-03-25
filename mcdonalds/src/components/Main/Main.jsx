@@ -3,6 +3,7 @@ import * as S from "./main_styled";
 import Card from "./Card";
 import sofa from "../../assets/mcsofa.png";
 import loja from "../../assets/restaurante.png";
+import juntos from "../../assets/estamos juntos.png";
 import MCbigmac from "../../assets/bigmac1.png";
 import MCbatata from "../../assets/batata.png";
 import MCsorvete from "../../assets/sorvete.png";
